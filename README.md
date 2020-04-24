@@ -16,8 +16,7 @@ The deliverables for this big assignment are:
  <li> A short report of your findings with necessary clarifications (as needed).</li>
 <ul>
 </p>
-<p> 
-I suggest you rely on Python with scikit-learn module. One way to learn is read up on the documentation of scikit-learn.
+<p> I suggest you rely on Python with scikit-learn module. One way to learn is read up on the documentation of scikit-learn.
 
 Please note that the last column of the attached data has the target (label) information. This label has no physical significance. You may change it at will provided you do it consistently across the board.
 
